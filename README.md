@@ -43,6 +43,10 @@
 
 有些免费是暂时的，当前可能没有免费活动了。也可以购买我推荐的长期观察的付费机场。下面是免费机场，不一定还有免费试用活动，可以一个个试试看：
 
+202609：
+
+[灯塔加速器](https://www.dengta12.com/reg?ref=BVdSMT45)  vless免费机场，3天
+
 2026.08
 
 [freesocks](https://freesocks.org/?ref=FSR-45XX-9ZG0) vless免费机场。有几个免费节点。付费一个月5刀
